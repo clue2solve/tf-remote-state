@@ -1,4 +1,5 @@
 ###  Setup Amazon S3 and DynamoDB for use as an external store for the Tearraform State
+This is based on the nice instruction on [this blog](https://blog.gruntwork.io/how-to-manage-terraform-state-28f5697e68fa#784f).
 
 ### Instructions : 
 
