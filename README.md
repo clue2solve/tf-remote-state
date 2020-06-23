@@ -6,7 +6,7 @@
     ```bash
     aws configure --profile default
     ```
-1. We need to execute the execute the initial run of terraform with local storage for the state. The provider config will look like this : 
+1. We need to execute the initial run of terraform with local storage for the state. The provider config will look like this : 
     ```json
     provider "aws" {
       region = "us-west-2"
