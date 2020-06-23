@@ -67,6 +67,6 @@
 
 
 
-### Include the provider config for terrform in all future terraform projects. Make sure to change the key to avoid any overrites. 
+## Include the provider config for terrform in all future terraform projects. Make sure to change the key to avoid any overrites. 
 
-### The lock allows you to share the remote state with multiple users without fearing any mess on the state file
+## The lock allows you to share the remote state with multiple users without fearing any mess on the state file
